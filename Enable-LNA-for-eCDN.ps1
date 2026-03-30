@@ -40,7 +40,7 @@ None
 None
 
 .LINK
-See more regarding configuring Local Network Access Policy for Microsoft eCDN here: https://learn.microsoft.com/en-us/ecdn/how-to/configure-local-network-access-policy
+See more regarding configuring Local Network Access Policy for Microsoft eCDN here: https://learn.microsoft.com/ecdn/how-to/configure-local-network-access-policy
 This script complements the Disable-mDNS-for-eCDN.ps1 script found here: https://learn.microsoft.com/ecdn/how-to/disable-mdns
 #>
 [cmdletbinding(DefaultParameterSetName="Default")] 
